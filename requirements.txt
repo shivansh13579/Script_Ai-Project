@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+sqlalchemy
+langchain
+langgraph
+chromadb
+openai
+tavily-python
+requests
+sqlmodel
+pymysql
+cryptography

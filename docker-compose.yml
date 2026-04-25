@@ -1,0 +1,22 @@
+version: '3.9'
+
+services:
+  backend:
+    build: .
+    container_name: script-ai-backend
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: mysql+pymysql://root:shivansh%40123@db:3306/script_generator
+
+  db:
+    image: mysql:8
+    container_name: script-ai-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: shivansh@123
+      MYSQL_DATABASE: script_generator
+    ports:
+      - "3307:3306"
