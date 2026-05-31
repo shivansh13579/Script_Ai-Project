@@ -1,5 +1,5 @@
 from sqlmodel import SQLModel, Field
-from typing import Optional,Dict
+from typing import Optional,Dict,List
 from datetime import datetime
 from sqlalchemy import Column,  DateTime,JSON,Text
 from sqlalchemy.sql import func
@@ -20,10 +20,10 @@ class ScriptBase(SQLModel):
     script: Dict = Field(
         sa_column=Column(JSON)
     )
-    sources: Optional[str]= Field(
-        default=None,
-        sa_column=Column(Text)
-    )
+    sources: Optional[List[str]] = Field(
+    default=None,
+    sa_column=Column(JSON)
+)
     quality_score: Optional[float] = None
 
     formatted_script: Optional[str] =  Field(
@@ -69,3 +69,4 @@ class ScriptResponse(ScriptBase):
 class ScriptGenerateRequest(BaseModel):
     topic: str
     tone: str
+    creator: str = "dhruv_rathee"

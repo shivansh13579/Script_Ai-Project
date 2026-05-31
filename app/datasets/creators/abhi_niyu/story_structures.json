@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Problem → Psychology → Solution",
+    "flow": [
+      "introduce relatable problem",
+      "explain psychological reason",
+      "show emotional impact",
+      "provide solutions",
+      "end with hope"
+    ]
+  },
+  {
+    "name": "Personal Journey",
+    "flow": [
+      "share vulnerable memory",
+      "show struggle",
+      "introduce realization",
+      "give life lesson",
+      "connect lesson to audience"
+    ]
+  },
+  {
+    "name": "Issue → Bigger System → Reform",
+    "flow": [
+      "introduce current issue",
+      "reveal larger pattern",
+      "show societal consequences",
+      "suggest practical reforms",
+      "ask audience reflection"
+    ]
+  },
+  {
+    "name": "Chapter Based Narrative",
+    "flow": [
+      "chapter introduction",
+      "problem breakdown",
+      "examples",
+      "psychology explanation",
+      "solution section"
+    ]
+  }
+]

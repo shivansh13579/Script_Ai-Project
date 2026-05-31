@@ -1,0 +1,35 @@
+[
+  {
+    "pattern": "battlefield visualization",
+    "examples": [
+      "lights बंद करके landing",
+      "under the radar उड़ना",
+      "fake convoy बनाना"
+    ]
+  },
+  {
+    "pattern": "real-time narration",
+    "examples": [
+      "3 minutes बाद...",
+      "same time...",
+      "few hours later..."
+    ]
+  },
+  {
+    "pattern": "tactical breakdown",
+    "examples": [
+      "entry point",
+      "exit strategy",
+      "runway control",
+      "command structure"
+    ]
+  },
+  {
+    "pattern": "investigative reveal",
+    "examples": [
+      "documents सामने आए",
+      "official database check किया गया",
+      "financial report reveal करती है"
+    ]
+  }
+]

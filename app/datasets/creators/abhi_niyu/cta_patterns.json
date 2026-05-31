@@ -1,0 +1,26 @@
+[
+  {
+    "type": "reflection_cta",
+    "examples": [
+      "आप क्या सोचते हैं?",
+      "क्या आप relate करते हो?",
+      "आप कबीर हो या आरव?"
+    ]
+  },
+  {
+    "type": "community_cta",
+    "examples": [
+      "Healthy discussion करते हैं.",
+      "Comments में बताइए.",
+      "अपने ideas share कीजिए."
+    ]
+  },
+  {
+    "type": "engagement_cta",
+    "examples": [
+      "अगर video पसंद आया तो share कीजिए.",
+      "Like button press कीजिए.",
+      "Subscribe कीजिए."
+    ]
+  }
+]

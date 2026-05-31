@@ -1,23 +1,63 @@
-import requests
+from tavily import TavilyClient
+from app.core.config import settings
+from app.core.logger import logger
 
-def research_topic(topic: str):
-    """
-    Simple research agent (can upgrade later)
-    """
+client = TavilyClient(
+    api_key=settings.TAVILY_API_KEY
+)
 
-    facts = [
-        f"{topic} is currently trending globally",
-        f"Recent developments related to {topic} increased tensions",
-        "Experts believe situation may impact global politics",
-        "Economic and military aspects are both involved"
+def research_agent(state):
+    print("state",state)
+    topic = state["topic"]
+    print("topic",topic)
+
+    response = client.search(
+        query=topic,
+        search_depth="advanced",
+        max_results=5
+    )
+
+    print("response",response)
+
+    facts = []
+    sources = []
+
+    blocked_words = [
+        "sign in",
+        "create account",
+        "advertisement",
+        "watch live",
+        "login"
     ]
 
-    sources = [
-        "https://news.example.com",
-        "https://globaltimes.example.com"
-    ]
+    for result in response.get("results", []):
+
+        title = result.get("title", "")
+        content = result.get("content", "")
+        url = result.get("url", "")
+
+        clean_content = content.lower()
+
+        if any(word in clean_content for word in blocked_words):
+            continue
+
+        short_fact = (
+            f"{title}: "
+            f"{content[:200].replace(chr(10), ' ')}"
+        )
+        
+        print("short_fact",short_fact)
+        facts.append(short_fact)
+        sources.append(url)
+
+    logger.info(f"Research completed for topic: {topic}")
+
+    print("facts",facts)
+    print("sources",sources)
 
     return {
-        "facts": facts,
+        "raw_research": {
+            "facts": facts
+        },
         "sources": sources
     }

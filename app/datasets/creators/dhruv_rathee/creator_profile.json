@@ -1,0 +1,46 @@
+{
+  "creator": "Dhruv Rathee",
+  "content_style": [
+    "cinematic storytelling",
+    "research-driven",
+    "emotionally persuasive",
+    "educational narrative"
+  ],
+
+  "tone": [
+    "serious",
+    "urgent",
+    "relatable",
+    "intelligent"
+  ],
+
+  "core_strengths": [
+    "high retention",
+    "emotional storytelling",
+    "research credibility",
+    "identity mirroring",
+    "open loops"
+  ],
+
+  "sentence_style": {
+    "average_length": "short-medium",
+    "language_mix": "Hindi-English",
+    "structure": "conversational"
+  },
+
+  "target_audience": [
+    "students",
+    "middle class youth",
+    "working professionals",
+    "politically aware audience"
+  ],
+
+  "storytelling_type": "problem -> emotion -> research -> solution",
+
+  "hook_style": [
+    "shocking reality",
+    "relatable character",
+    "existential question",
+    "controversial statement"
+  ]
+}

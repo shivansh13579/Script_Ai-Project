@@ -1,0 +1,26 @@
+[
+  {
+    "trigger": "identity_mirroring",
+    "purpose": "make viewer feel represented"
+  },
+
+  {
+    "trigger": "future_anxiety",
+    "purpose": "increase emotional retention"
+  },
+
+  {
+    "trigger": "information_gap",
+    "purpose": "boost curiosity"
+  },
+
+  {
+    "trigger": "authority_bias",
+    "purpose": "increase trust"
+  },
+
+  {
+    "trigger": "hope_cycle",
+    "purpose": "prevent emotional fatigue"
+  }
+]

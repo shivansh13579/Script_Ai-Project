@@ -1,0 +1,35 @@
+[
+  {
+    "pattern": "cinematic escalation",
+    "description": "slow setup followed by rapidly increasing intensity"
+  },
+  {
+    "pattern": "micro-detail narration",
+    "examples": [
+      "exact dates",
+      "locations",
+      "times",
+      "technical movements"
+    ]
+  },
+  {
+    "pattern": "parallel storytelling",
+    "examples": [
+      "meanwhile in Israel...",
+      "same time दूसरी तरफ...",
+      "parallel planning चल रही थी"
+    ]
+  },
+  {
+    "pattern": "cliffhanger transitions",
+    "examples": [
+      "लेकिन यहां कहानी खत्म नहीं होती.",
+      "अब असली operation शुरू होने वाला था.",
+      "लेकिन एक problem थी."
+    ]
+  },
+  {
+    "pattern": "evidence stacking",
+    "description": "multiple proofs layered continuously before conclusion"
+  }
+]

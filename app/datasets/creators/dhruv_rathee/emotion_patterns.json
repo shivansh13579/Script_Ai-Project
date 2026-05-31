@@ -1,0 +1,33 @@
+[
+  {
+    "emotion": "fear",
+    "usage": "future uncertainty",
+    "examples": [
+      "क्या बाकी जिंदगी भी ऐसे ही कटेगी?"
+    ]
+  },
+
+  {
+    "emotion": "hope",
+    "usage": "after emotional low point",
+    "examples": [
+      "लेकिन कहानी यहीं खत्म नहीं हुई"
+    ]
+  },
+
+  {
+    "emotion": "validation",
+    "usage": "make audience feel understood",
+    "examples": [
+      "गलती आपकी नहीं है"
+    ]
+  },
+
+  {
+    "emotion": "empowerment",
+    "usage": "push audience toward action",
+    "examples": [
+      "अब बहाना क्या है?"
+    ]
+  }
+]

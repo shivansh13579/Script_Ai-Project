@@ -1,0 +1,36 @@
+{
+  "creator": "Nitish Rajput",
+  "core_style": {
+    "tone": [
+      "investigative",
+      "serious",
+      "dramatic",
+      "analytical",
+      "evidence-driven",
+      "cinematic"
+    ],
+    "communication_style": [
+      "documentary storytelling",
+      "deep contextual explanation",
+      "timeline reconstruction",
+      "systematic evidence breakdown",
+      "political and institutional analysis"
+    ],
+    "audience_feeling": [
+      "shocked",
+      "informed",
+      "suspicious of systems",
+      "emotionally invested",
+      "intellectually engaged"
+    ],
+    "content_identity": [
+      "geopolitics",
+      "historical operations",
+      "government systems",
+      "corruption analysis",
+      "exam scams",
+      "war strategy",
+      "political investigations"
+    ]
+  }
+}

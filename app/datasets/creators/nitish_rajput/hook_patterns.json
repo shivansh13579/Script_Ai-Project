@@ -1,0 +1,34 @@
+[
+  {
+    "type": "shocking_statement",
+    "examples": [
+      "Uganda के 11 fighter jets लाइन से उड़ा दिए गए.",
+      "Tender हारते ही tender cancel हो गया.",
+      "ये operation impossible माना जा रहा था."
+    ]
+  },
+  {
+    "type": "mystery_hook",
+    "examples": [
+      "लेकिन असली खेल अभी बाकी था.",
+      "अब यहां से कहानी पलटती है.",
+      "यहीं से शुरू होती है पूरी साजिश."
+    ]
+  },
+  {
+    "type": "system_exposure",
+    "examples": [
+      "Rule change हुए और फिर वही company जीत गई.",
+      "ये सिर्फ coincidence नहीं था.",
+      "सिस्टम के अंदर कुछ बड़ा चल रहा था."
+    ]
+  },
+  {
+    "type": "historical_setup",
+    "examples": [
+      "27 June 1976...",
+      "1950 में constitution बनने के बाद...",
+      "Cold war के दौर में..."
+    ]
+  }
+]

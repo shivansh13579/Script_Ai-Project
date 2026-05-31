@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Timeline Reconstruction",
+    "flow": [
+      "historical setup",
+      "incident trigger",
+      "step-by-step event narration",
+      "parallel developments",
+      "climax operation",
+      "aftermath analysis"
+    ]
+  },
+  {
+    "name": "Scam Investigation",
+    "flow": [
+      "introduce controversy",
+      "show official rules",
+      "compare inconsistencies",
+      "present evidence",
+      "reveal political links",
+      "raise public questions"
+    ]
+  },
+  {
+    "name": "Operation Breakdown",
+    "flow": [
+      "mission background",
+      "enemy setup",
+      "strategy explanation",
+      "execution details",
+      "unexpected complications",
+      "final outcome"
+    ]
+  },
+  {
+    "name": "Institutional Failure Analysis",
+    "flow": [
+      "system creation history",
+      "initial purpose",
+      "gradual corruption",
+      "private influence",
+      "technical loopholes",
+      "public consequences"
+    ]
+  }
+]

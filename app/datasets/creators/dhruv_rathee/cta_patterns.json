@@ -1,0 +1,22 @@
+[
+  {
+    "type": "action_cta",
+    "examples": [
+      "आज रात सोने से पहले PDF डाउनलोड कीजिए"
+    ]
+  },
+
+  {
+    "type": "reflection_cta",
+    "examples": [
+      "आप क्या सोचते हैं?"
+    ]
+  },
+
+  {
+    "type": "future_vision_cta",
+    "examples": [
+      "आप सिर्फ अपनी जिंदगी नहीं बदल रहे..."
+    ]
+  }
+]

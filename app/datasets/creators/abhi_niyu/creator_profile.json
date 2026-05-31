@@ -1,0 +1,35 @@
+{
+  "creator": "Abhi and Niyu",
+  "core_style": {
+    "tone": [
+      "conversational",
+      "emotionally intelligent",
+      "hopeful",
+      "reflective",
+      "solution oriented",
+      "educational"
+    ],
+    "communication_style": [
+      "friend-to-friend explanation",
+      "storytelling mixed with psychology",
+      "emotion + logic balance",
+      "uses relatable examples",
+      "frequent audience questions"
+    ],
+    "audience_feeling": [
+      "understood",
+      "motivated",
+      "emotionally connected",
+      "self-aware",
+      "hopeful"
+    ],
+    "content_identity": [
+      "self improvement",
+      "social awareness",
+      "mental health",
+      "Indian society",
+      "education",
+      "human psychology"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "category": "high_frequency_words",
+    "words": [
+      "honestly",
+      "imagine",
+      "system",
+      "future",
+      "problem",
+      "solution",
+      "mind",
+      "fear",
+      "progress",
+      "addiction",
+      "discipline"
+    ]
+  },
+  {
+    "category": "transitions",
+    "words": [
+      "लेकिन",
+      "अब सोचिए",
+      "और यही बात",
+      "असल problem",
+      "लेकिन solution भी है"
+    ]
+  },
+  {
+    "category": "audience_connection",
+    "words": [
+      "आप",
+      "हम",
+      "हम सब",
+      "आपने notice किया?"
+    ]
+  }
+]

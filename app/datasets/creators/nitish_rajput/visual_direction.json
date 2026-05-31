@@ -1,0 +1,30 @@
+[
+  {
+    "style": "documentary editing",
+    "elements": [
+      "maps",
+      "timelines",
+      "news clips",
+      "documents",
+      "satellite visuals"
+    ]
+  },
+  {
+    "style": "cinematic tension",
+    "elements": [
+      "dramatic music",
+      "countdowns",
+      "zoom transitions",
+      "war footage"
+    ]
+  },
+  {
+    "style": "data storytelling",
+    "elements": [
+      "tables",
+      "highlighted documents",
+      "comparison graphics",
+      "technical screenshots"
+    ]
+  }
+]

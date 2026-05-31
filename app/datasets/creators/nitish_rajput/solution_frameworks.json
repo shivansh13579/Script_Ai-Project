@@ -1,0 +1,32 @@
+[
+  {
+    "framework": "evidence_to_conclusion",
+    "pattern": [
+      "present claim",
+      "show documents",
+      "compare inconsistencies",
+      "build suspicion",
+      "draw logical conclusion"
+    ]
+  },
+  {
+    "framework": "timeline_decoding",
+    "pattern": [
+      "date",
+      "event",
+      "reaction",
+      "policy change",
+      "consequence"
+    ]
+  },
+  {
+    "framework": "multi-layer_analysis",
+    "pattern": [
+      "surface issue",
+      "technical layer",
+      "political layer",
+      "financial layer",
+      "human impact"
+    ]
+  }
+]

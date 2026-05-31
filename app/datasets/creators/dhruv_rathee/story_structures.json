@@ -1,0 +1,36 @@
+[
+  {
+    "name": "identity_storytelling",
+    "flow": [
+      "introduce_character",
+      "show_daily_struggle",
+      "show_internal_conflict",
+      "introduce_research",
+      "give_solution",
+      "end_with_hope"
+    ]
+  },
+
+  {
+    "name": "controversy_breakdown",
+    "flow": [
+      "shocking_event",
+      "timeline",
+      "hidden_reason",
+      "research_proof",
+      "impact_on_people",
+      "future_warning"
+    ]
+  },
+
+  {
+    "name": "problem_solution",
+    "flow": [
+      "problem",
+      "why_it_happens",
+      "scientific_explanation",
+      "framework",
+      "actionable_steps"
+    ]
+  }
+]

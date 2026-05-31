@@ -1,0 +1,26 @@
+[
+  {
+    "type": "critical_thinking_cta",
+    "examples": [
+      "अब सवाल ये उठता है...",
+      "क्या ये सिर्फ coincidence है?",
+      "आप खुद सोचिए."
+    ]
+  },
+  {
+    "type": "awareness_cta",
+    "examples": [
+      "इस topic पर discussion जरूरी है.",
+      "ये issue सिर्फ students का नहीं है.",
+      "System को समझना जरूरी है."
+    ]
+  },
+  {
+    "type": "engagement_cta",
+    "examples": [
+      "आपकी क्या राय है?",
+      "Comments में बताइए.",
+      "Video share कीजिए."
+    ]
+  }
+]

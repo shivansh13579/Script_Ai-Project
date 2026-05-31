@@ -1,0 +1,40 @@
+[
+  {
+    "category": "high_frequency_words",
+    "words": [
+      "operation",
+      "system",
+      "tender",
+      "intelligence",
+      "technical",
+      "evidence",
+      "security",
+      "government",
+      "network",
+      "strategy",
+      "mission",
+      "investigation"
+    ]
+  },
+  {
+    "category": "transition_words",
+    "words": [
+      "अब देखिए",
+      "लेकिन",
+      "same time",
+      "दूसरी तरफ",
+      "असल दिक्कत",
+      "यहीं से"
+    ]
+  },
+  {
+    "category": "analysis_language",
+    "words": [
+      "technical round",
+      "financial bid",
+      "certification",
+      "intelligence gathering",
+      "parallel planning"
+    ]
+  }
+]

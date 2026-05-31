@@ -1,0 +1,45 @@
+[
+  {
+    "emotion": "tension",
+    "triggers": [
+      "countdowns",
+      "deadlines",
+      "hostage situations",
+      "secret operations"
+    ]
+  },
+  {
+    "emotion": "anger",
+    "triggers": [
+      "corruption",
+      "paper leaks",
+      "rule manipulation",
+      "political favoritism"
+    ]
+  },
+  {
+    "emotion": "suspicion",
+    "triggers": [
+      "rule changes",
+      "hidden connections",
+      "unexplained approvals",
+      "missing transparency"
+    ]
+  },
+  {
+    "emotion": "admiration",
+    "triggers": [
+      "military precision",
+      "strategic brilliance",
+      "high-risk missions"
+    ]
+  },
+  {
+    "emotion": "fear",
+    "triggers": [
+      "terror attacks",
+      "government failure",
+      "national security threats"
+    ]
+  }
+]

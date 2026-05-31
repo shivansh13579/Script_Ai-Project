@@ -1,0 +1,42 @@
+[
+  {
+    "trigger": "system distrust",
+    "examples": [
+      "rule manipulation",
+      "government favoritism",
+      "institutional failure"
+    ]
+  },
+  {
+    "trigger": "high stakes urgency",
+    "examples": [
+      "hostage deadlines",
+      "national crisis",
+      "mission countdown"
+    ]
+  },
+  {
+    "trigger": "hidden conspiracy",
+    "examples": [
+      "unexpected connections",
+      "sudden rule changes",
+      "hidden beneficiaries"
+    ]
+  },
+  {
+    "trigger": "intellectual superiority",
+    "examples": [
+      "deep research",
+      "rare historical facts",
+      "behind-the-scenes details"
+    ]
+  },
+  {
+    "trigger": "justice outrage",
+    "examples": [
+      "students suffering",
+      "corruption exposure",
+      "unfair recruitment"
+    ]
+  }
+]

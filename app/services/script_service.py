@@ -43,7 +43,6 @@ def get_all_scripts(
 
      return session.exec(statement).all()
 
-
 def get_script_by_id(
     session: Session,
     script_id: int

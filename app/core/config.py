@@ -8,9 +8,9 @@ class Settings(BaseSettings):
 
     DATABASE_URL: str = "mysql+pymysql://root:shivansh%40123@localhost:3306/script_generator"
 
-    OPENAI_API_KEY: str = ""
-    TAVILY_API_KEY: str = ""
-    NEWS_API_KEY: str = ""
+    OPENAI_API_KEY: str
+    TAVILY_API_KEY: str
+    # NEWS_API_KEY: str = ""
 
     class Config:
         env_file = ".env"

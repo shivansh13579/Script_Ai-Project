@@ -1,0 +1,27 @@
+[
+  {
+    "type": "survey_data",
+    "purpose": "credibility boost",
+    "examples": [
+      "Gallup survey",
+      "Stanford study"
+    ]
+  },
+
+  {
+    "type": "expert_reference",
+    "purpose": "authority building",
+    "examples": [
+      "Angela Duckworth",
+      "Cal Newport"
+    ]
+  },
+
+  {
+    "type": "data_amplification",
+    "purpose": "make issue feel massive",
+    "examples": [
+      "10 में से 8 लोग"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "type": "historical documentation",
+    "examples": [
+      "flight numbers",
+      "dates",
+      "military units",
+      "government records"
+    ]
+  },
+  {
+    "type": "official documents",
+    "examples": [
+      "tender copies",
+      "financial reports",
+      "technical scoring sheets",
+      "government notifications"
+    ]
+  },
+  {
+    "type": "technical analysis",
+    "examples": [
+      "server infrastructure",
+      "radar systems",
+      "aircraft capability",
+      "computer-based testing"
+    ]
+  },
+  {
+    "type": "political linkage analysis",
+    "examples": [
+      "MLA connections",
+      "government contracts",
+      "party influence",
+      "policy changes"
+    ]
+  }
+]

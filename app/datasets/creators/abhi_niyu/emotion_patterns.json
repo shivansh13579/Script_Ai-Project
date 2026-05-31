@@ -1,0 +1,43 @@
+[
+  {
+    "emotion": "self reflection",
+    "triggers": [
+      "pause and think",
+      "imagine yourself",
+      "audience introspection"
+    ]
+  },
+  {
+    "emotion": "hope",
+    "triggers": [
+      "solutions exist",
+      "small improvements matter",
+      "change is possible"
+    ]
+  },
+  {
+    "emotion": "fear",
+    "triggers": [
+      "future destruction",
+      "mental health decline",
+      "addiction",
+      "system failure"
+    ]
+  },
+  {
+    "emotion": "belonging",
+    "triggers": [
+      "you are not alone",
+      "this happens to everyone",
+      "shared human struggle"
+    ]
+  },
+  {
+    "emotion": "motivation",
+    "triggers": [
+      "personal growth",
+      "discipline",
+      "self improvement"
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "pattern": "open_loop_every_30_seconds",
+    "examples": [
+      "लेकिन आगे जो हुआ...",
+      "असल समस्या यहाँ से शुरू होती है..."
+    ]
+  },
+
+  {
+    "pattern": "emotion_switching",
+    "flow": [
+      "fear",
+      "hope",
+      "research",
+      "shock",
+      "motivation"
+    ]
+  },
+
+  {
+    "pattern": "short_sentence_rhythm",
+    "style": [
+      "small sentences",
+      "dramatic pauses",
+      "question inserts"
+    ]
+  }
+]

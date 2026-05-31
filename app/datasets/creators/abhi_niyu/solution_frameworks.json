@@ -1,0 +1,27 @@
+[
+  {
+    "framework": "step_by_step_solution",
+    "pattern": [
+      "identify problem",
+      "explain psychology",
+      "give practical steps",
+      "encourage gradual improvement"
+    ]
+  },
+  {
+    "framework": "replace_not_remove",
+    "pattern": [
+      "don't quit instantly",
+      "replace bad habits",
+      "small sustainable improvements"
+    ]
+  },
+  {
+    "framework": "mindfulness_action",
+    "pattern": [
+      "pause",
+      "observe",
+      "take small action"
+    ]
+  }
+]

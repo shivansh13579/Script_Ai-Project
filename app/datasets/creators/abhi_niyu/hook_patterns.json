@@ -1,0 +1,34 @@
+[
+  {
+    "type": "personal_confession",
+    "examples": [
+      "हम एक addict हैं.",
+      "कुछ दिन पहले मैं scrolling कर रहा था...",
+      "मैं खुद को religious इंसान नहीं मानता."
+    ]
+  },
+  {
+    "type": "deep_question",
+    "examples": [
+      "अगर आपको लगता है कि...",
+      "क्या आपने कभी notice किया है?",
+      "अब यहां एक सेकंड रुककर सोचिए."
+    ]
+  },
+  {
+    "type": "problem_reveal",
+    "examples": [
+      "ये सिर्फ आपका problem नहीं है.",
+      "असल problem कहीं ज्यादा बड़ी है.",
+      "Screen addiction is real."
+    ]
+  },
+  {
+    "type": "emotional_curiosity",
+    "examples": [
+      "और यही सबसे dangerous बात है.",
+      "लेकिन story यहीं खत्म नहीं होती.",
+      "अब सुनिए सबसे shocking part."
+    ]
+  }
+]

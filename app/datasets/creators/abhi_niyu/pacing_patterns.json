@@ -1,0 +1,38 @@
+[
+  {
+    "pattern": "short emotional bursts",
+    "examples": [
+      "Screen addiction is real.",
+      "Future बेचे जा रहे हैं.",
+      "And that's okay."
+    ]
+  },
+  {
+    "pattern": "reflection pauses",
+    "examples": [
+      "एक सेकंड रुककर सोचिए.",
+      "Imagine करो.",
+      "क्या आपने notice किया?"
+    ]
+  },
+  {
+    "pattern": "chapter segmentation",
+    "examples": [
+      "Chapter 1",
+      "Step 1",
+      "Solution number 2"
+    ]
+  },
+  {
+    "pattern": "tension reset",
+    "examples": [
+      "लेकिन असली बात अभी बाकी है.",
+      "और यही problem है.",
+      "लेकिन solution भी है."
+    ]
+  },
+  {
+    "pattern": "alternating explanation rhythm",
+    "description": "switches between short emotional lines and detailed explanations"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "type": "relatable_character",
+    "template": "रात के 9 बज रहे हैं...",
+    "purpose": "instant immersion",
+    "retention_score": 9
+  },
+  {
+    "type": "shocking_statement",
+    "template": "Modi ji ne Indians se shocking request ki hai...",
+    "purpose": "curiosity trigger",
+    "retention_score": 10
+  },
+  {
+    "type": "future_fear",
+    "template": "क्या बाकी जिंदगी भी ऐसे ही कटेगी?",
+    "purpose": "existential anxiety",
+    "retention_score": 9
+  },
+  {
+    "type": "hidden_truth",
+    "template": "जो motivational videos आपको नहीं बताते...",
+    "purpose": "information gap",
+    "retention_score": 8
+  }
+]
