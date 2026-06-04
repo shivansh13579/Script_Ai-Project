@@ -47,3 +47,9 @@ def root():
          "docs": "/docs"
     }
 
+@app.get("/version")
+def version():
+    return {
+        "version": "2.0"
+    }
+
