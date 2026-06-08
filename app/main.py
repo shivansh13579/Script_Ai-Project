@@ -50,6 +50,6 @@ def root():
 @app.get("/version")
 def version():
     return {
-        "version": "2.11"
+        "version": "4.44"
     }
 
